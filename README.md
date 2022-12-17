@@ -18,5 +18,4 @@ Participants:
  Maslov Boris        https://t.me/Overkast      UI/UX designer
 ```
 ![Alt Text](img/video.gif)
-
-UI (доступ открыт): https://www.figma.com/file/nl61E5KHmGk1ndyGLa93bD/VTB-API?node-id=0%3A1
+[UI model](https://www.behance.net/gallery/155340647/VTB-API-hackathon-2022)
